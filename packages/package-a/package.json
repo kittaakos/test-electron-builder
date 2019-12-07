@@ -1,0 +1,8 @@
+{
+  "name": "package-a",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "vscode-uri": "^1.0.8"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "package-c",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "vscode-json-languageserver": "^1.2.1"
+  }
+}
